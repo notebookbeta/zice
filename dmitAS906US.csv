@@ -57,5 +57,3 @@
 174.136.205.92,28662,true,SJC,North America,San Jose,153 ms,11200 kB/s
 174.136.206.38,20443,true,SJC,North America,San Jose,157 ms,11113 kB/s
 174.136.206.70,39880,true,SJC,North America,San Jose,161 ms,11103 kB/s
-masscan 45.59.184.0/24 45.59.185.0/24 45.59.186.0/24 45.59.187.0/24 65.75.192.0/24 65.75.193.0/24 65.75.194.0/24 65.75.195.0/24 -p1000-65535 -oX all.xml --rate 100000
-
