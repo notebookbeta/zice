@@ -1,5 +1,5 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-154.17.11.211,32939,true,LAX,North America,Los Angeles,153 ms,10973 kB/s
+154.17.11.211,32939,true,US,North America,Los Angeles,153 ms,10973 kB/s
 154.17.17.205,8443,true,LAX,North America,Los Angeles,151 ms,11276 kB/s
 154.17.17.51,14228,true,GRU,South America,São Paulo,155 ms,7545 kB/s
 154.17.19.203,2009,true,LAX,North America,Los Angeles,150 ms,10937 kB/s
